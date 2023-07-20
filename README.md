@@ -1,4 +1,4 @@
-# PINNs-for-education
+# Physics Informed Neural Networks (PINN) for education
 Deep Learning for Solving Differential Equations (Educational)
 ---
 This repository aims to provide educational resources and implementations of deep learning techniques for solving differential equations. It serves as a learning hub for understanding the intersection of deep learning and numerical methods in the context of differential equations.

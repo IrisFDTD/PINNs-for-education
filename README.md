@@ -16,7 +16,7 @@ Deep learning fundamentals and neural network architectures for differential equ
 Whether you're a student, researcher, or enthusiast interested in understanding the exciting realm of deep learning applied to differential equations, this repository offers a valuable resource to augment your knowledge and explore practical implementations. 
 
 These codes are provided as a Supplementary material in the paper  *Solving differential equations in physics with Deep Learning: a beginner’s guide* 
-by Luis Medrano Navarro$^2$, Luis Martin Moreno$^{2,3}$ and Sergio G Rodrigo$^{1,2}$
+by Luis Medrano Navarro $^2$, Luis Martin Moreno $^{2,3}$ and Sergio G Rodrigo $^{1,2}$
 
 + $^1$ Departamento de Física Aplicada, Facultad de Ciencias, Universidad de
 Zaragoza, 50009 Zaragoza, Spain*

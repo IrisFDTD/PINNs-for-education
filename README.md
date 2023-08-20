@@ -24,3 +24,7 @@ Zaragoza, 50009 Zaragoza, Spain*
 + $^3$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza 50009, Spain*
 + corresponding author: sergut@unizar.es
 + https://doi.org/10.48550/arXiv.2307.11237
+
+Further work on PINNs:
++ *3rd order nonlinear ODE PINN.ipynb* has been implemented by Jorge Paz-Peñuelas Oliván (774270@unizar.es) as part of extracurricular activities at the University of Zaragoza in July 2023.
++ The code builds upon the 2nd-order ODE implementation using Physics-Informed Neural Networks (PINNs) done by Luis Medrano.Navarro, Luis Martin Moreno and Sergio G Rodrigo.

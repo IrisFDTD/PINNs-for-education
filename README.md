@@ -20,8 +20,7 @@ by Luis Medrano Navarro $^2$, Luis Martin Moreno $^{2,3}$ and Sergio G Rodrigo $
 
 + $^1$ Departamento de Física Aplicada, Facultad de Ciencias, Universidad de
 Zaragoza, 50009 Zaragoza, Spain*
-+ $^2$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain*
-+ $^3$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza 50009, Spain*
++ $^2$ Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, 50009 Zaragoza, Spain, $^3$ Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza 50009, Spain
 + corresponding author: sergut@unizar.es
 + https://doi.org/10.48550/arXiv.2307.11237
 

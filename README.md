@@ -25,6 +25,6 @@ Zaragoza, 50009 Zaragoza, Spain*
 + corresponding author: sergut@unizar.es
 + https://doi.org/10.48550/arXiv.2307.11237
 
-Further work on PINNs:
-+ *3rd order nonlinear ODE PINN.ipynb* has been implemented by Jorge Paz-Peñuelas Oliván (774270@unizar.es) as part of extracurricular activities at the University of Zaragoza in July 2023.
-+ The code builds upon the 2nd-order ODE implementation using Physics-Informed Neural Networks (PINNs) done by Luis Medrano.Navarro, Luis Martin Moreno and Sergio G Rodrigo.
+**Further work on PINNs**:
++ *[3rd order nonlinear ODE PINN.ipynb](PINN_for_optics_eikonal.ipynb)* has been implemented by Jorge Paz-Peñuelas Oliván (774270@unizar.es) as part of extracurricular activities at the University of Zaragoza in July 2023. The code builds upon the 2nd-order ODE implementation using Physics-Informed Neural Networks (PINNs) done by Luis Medrano.Navarro, Luis Martin Moreno and Sergio G Rodrigo.
++ *[PINN_for_optics_eikonal.ipynb]*(PINN_for_optics_eikonal.ipynb) has been implemented in collaboration with Paula Robredo Mexía (775198@unizar.es), this project addresses a classical problem in the field of optics: ray tracing within a Gradient-Index (GRIN) medium. The work was part of a Final Degree Thesis at the University of Zaragoza.

@@ -21,7 +21,7 @@ This Jupyter notebook presents the first of the ODEs solved with PINNs in this w
 **[Example 2: 2nd order linear ODE](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/2nd_order_ODE_PINN.ipynb)**
 This Jupyter notebook presents the second of the ODEs solved with PINNs in this work:  the harmonic oscillator.
 
-**[Example 3: 2nd order non-linear ODE](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/3rd_order_nonlinear_ODE_PINN.ipynb)**
+**[Example 3: 2nd order non-linear ODE](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/2nd_order_nonlinear_ODE_PINN.ipynb)**
 This Jupyter notebook introduces the third example of solving ODEs with PINNs in this study: the Korteweg–de Vries (KdV) non-linear ODE.
 
 **Additional work on PINNs**:

@@ -16,13 +16,13 @@ These codes are provided as a Supplementary material in the paper  *Solving diff
 + *corresponding author: sergut@unizar.es*
 
 **[Example 1: 1st order linear ODE](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/1st_order_ODE_PINN.ipynb)**
-This Jupyter notebook presents the first of the ordinary differential equations (ODEs) solved with Physics-Informed Neural Networks (PINNs) in this work:  the exponential decay ODE.
+This Jupyter notebook presents the first of the ODEs solved with PINNs in this work:  the exponential decay ODE.
 
 **[Example 2: 2nd order linear ODE](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/2nd_order_ODE_PINN.ipynb)**
-This Jupyter notebook presents the second of the ordinary differential equations (ODEs) solved with Physics-Informed Neural Networks (PINNs) in this work:  the harmonic oscillator.
+This Jupyter notebook presents the second of the ODEs solved with PINNs in this work:  the harmonic oscillator.
 
 **[Example 3: 2nd order non-linear ODE](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/3rd_order_nonlinear_ODE_PINN.ipynb)**
-This Jupyter notebook introduces the third example of solving ordinary differential equations (ODEs) with Physics-Informed Neural Networks (PINNs) in this study: the Korteweg–de Vries (KdV) non-linear ODE.
+This Jupyter notebook introduces the third example of solving ODEs with PINNs in this study: the Korteweg–de Vries (KdV) non-linear ODE.
 
 **Additional work on PINNs**:
 + *[3rd order nonlinear ODE PINN.ipynb](https://nbviewer.jupyter.org/github/IrisFDTD/PINNs-for-education/blob/main/3rd_order_nonlinear_ODE_PINN.ipynb)* has been implemented by Jorge Paz-Peñuelas Oliván (774270@unizar.es) as part of extracurricular activities at the University of Zaragoza in July 2023. The code builds upon the 2nd-order ODE implementation using Physics-Informed Neural Networks (PINNs) done by Luis Medrano.Navarro, Luis Martin Moreno and Sergio G Rodrigo.

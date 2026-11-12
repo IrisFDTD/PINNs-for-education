@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Physics Informed Neural Networks (PINNs) for education"
+abstract: "This repository aims to provide educational resources and implementations of deep learning techniques for solving differential equations. It serves as a learning hub for understanding the intersection of deep learning and numerical methods in the context of differential equations."
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com"
+keywords:
+  - symmetry detection 
+  - machine learning 
+  - dynamical systems 
+  - equivariance
+authors:    
+  - family-names: "Rodrigo"
+    given-names: "Sergio G."
+    orcid: "https://orcid.org/0000-0001-6575-168X"
+    affiliation: "Departamento de Física Aplicada, Universidad de Zaragoza, Zaragoza, 50009, Spain; Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain"
+  - family-names: "Martín-Moreno"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0001-9273-8165"
+    affiliation: "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain"
+  

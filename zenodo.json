@@ -1,0 +1,31 @@
+{
+  "title": "Physics Informed Neural Networks (PINNs) for education",
+  "description": "<p>This repository aims to provide educational resources and implementations of deep learning techniques for solving differential equations. It serves as a learning hub for understanding the intersection of deep learning and numerical methods in the context of differential equations.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-12-11",
+  "keywords": [    
+  "machine learning", 
+  "differential equations",   
+  ],
+  "creators": [    
+  {
+      "name": "Rodrigo, Sergio G.",
+      "affiliation": "Departamento de Física Aplicada, Universidad de Zaragoza, Zaragoza, 50009, Spain; Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0001-6575-168X"
+    },	
+    {
+      "name": "Martín-Moreno, Luis",
+      "affiliation": "Instituto de Nanociencia y Materiales de Aragón (INMA), CSIC-Universidad de Zaragoza, Zaragoza, 50009, Spain; Departamento de Física de la Materia Condensada, Universidad de Zaragoza, Zaragoza, 50009, Spain",
+      "orcid": "0000-0001-9273-8165"
+    }
+    
+  ],
+  "communities": [
+    {
+      "identifier": "ainma-classphys"
+    }
+  ]
+}
